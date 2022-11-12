@@ -1,5 +1,3 @@
--Member of a Formula Student Driverless team in Germany
--Dual student in computer science
--Currently learning
-  -ROS, Python, C++ for FSD
-  -HTML, JavaScript, CSS, Node.js, Vue.js for my Studies 
+- Technical Director Software 2022/23 at StarkStrom Augsburg
+- Dual Student at KUKA AG
+- Computer science student (bachelor) at University of Applied Sciences Augsburg
