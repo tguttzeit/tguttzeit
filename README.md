@@ -1,3 +1,3 @@
-- Technical Director Software 2022/23 at StarkStrom Augsburg (Formula Student Electric/Driverless Team)
+- Technical Director Software and Team Captain 2022/23 at StarkStrom Augsburg (Formula Student Electric/Driverless Team)
 - Dual Student at KUKA AG
 - Computer science student (bachelor) at University of Applied Sciences Augsburg
